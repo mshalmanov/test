@@ -1,0 +1,11 @@
+{
+	"config": {
+		"vendor-dir": "lib"
+	},
+	
+    "require": {
+		"phroute/phroute": "^2.1",
+       	"nikic/fast-route": "^1.3",
+		"smarty/smarty": "^3.1"
+    }
+}
